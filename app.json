@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Ziyarh",
+    "slug": "ziyarah2323",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.asmaakhaled.zeyarahapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mstile.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.asmaakhaled.zeyarahapp"
+    },
+    "web": {
+      "favicon": "./assets/logo-icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fa12dca3-9354-474c-b391-4edaea9d1169"
+      }
+    },
+    "owner": "qsd5k"
+  }
+}
